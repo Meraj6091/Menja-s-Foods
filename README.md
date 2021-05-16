@@ -1,2 +1,2 @@
 # Menja-s-Foods
-A Food Delivery app
+A Food Delivery app using React-Native
