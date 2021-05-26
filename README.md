@@ -1,1 +1,1 @@
-A small food delivery app using React-Native
+A food delivery app UI using React-Native
